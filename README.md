@@ -2,7 +2,7 @@
 
 **Developer:** Houda Bazzi  
 **Course:** COM437 Mobile Application Development  
-**Project Status:** Week 2 — Initial Development
+**Project Status:** Week 5 – Android App Development in Progress
 
 ## Project Overview
 
@@ -32,7 +32,7 @@ After Me aims to make this process easier by organizing information around speci
 - Created a dashboard with three sections: My Information, Trusted Contacts, and Emergency Instructions.
 - Successfully built and tested the application using an Android emulator.
 
-The dashboard sections are currently interface placeholders. Their individual functionality has not yet been implemented.
+The dashboard was initially developed with placeholder sections. Development has since progressed to include initial trusted contacts functionality and Room database integration, while other sections remain under development.
 
 ## Planned Features
 
@@ -50,8 +50,29 @@ The dashboard sections are currently interface placeholders. Their individual fu
 
 ## Project Documentation
 
-The GitHub Wiki will contain the project outline and development planning information.
+The GitHub Wiki contains the project outline and development planning information. It will be updated as development progresses.
 
 ## Current Status
 
-This application is an early-stage prototype being developed throughout the COM437 course. It is not yet ready for storing real personal or emergency information.
+After Me is currently in Week 5 of development. The Android project includes initial trusted contacts functionality and Room database integration for local data storage. Development and testing are ongoing, with additional features and improvements planned.
+
+The application remains a prototype and is not yet ready for storing real personal or emergency information.
+
+## Development Progress / Changelog
+
+### Week 2 – Initial Setup
+- Created the Android Studio project using Java and XML.
+- Established the GitHub repository, README, and project Wiki.
+- Developed the initial application screen.
+
+### Weeks 3–5 – Development Progress
+- Expanded the Android application beyond its initial screen.
+- Added initial trusted contacts functionality.
+- Integrated Room for local database storage.
+- Committed and pushed the Android project to GitHub.
+
+### Planned Development
+- Continue building and refining application screens and navigation.
+- Improve forms for entering and managing information.
+- Test data storage, retrieval, and application behavior.
+- Evaluate security and access controls for sensitive information.
